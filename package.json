@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-ci-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HugoSanchez03/proyecto-ci-yarn",
+  "author": "Hugo Sánchez Barroso <hugosb1042003@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+  "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
